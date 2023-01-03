@@ -72,7 +72,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>ROS</mark> (Robot Operating System) and it has since grown into a fully-built robot. I have learned many skills through this and I'm very proud to have improved my knowledge in the robotic area. In resume, the concept of the project is to build an electric autonomous vehicle with electronic parts and sensors, and the software where was a development of a method to navigate the robot from one point to another realizing obstacle avoidance. This objective was concluded with the utilization of potential fields for path planning and obstacle avoidance and the Kalman Filter for the localization of the robot. In this project, I worked with IMU, LIDAR, Micro Controller Raspberry, Motor Drivers Controllers, PID Control, PWM drive, Encoder, A/D Converters, and others.
           
-        -image: vidigaleandro.github.io/images/GRUPO.png         
+        image:
+          source: assets/images/GRUPO.png
+          output: generated
+          presets:
+            # Proportional preset
+            users:
+              attr:
+                class: user-portrait
+                itemprop: image
+              width: 350
+            # Scaled and cropped preset
+            half:
+              width: 400
+              height: 400       
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
