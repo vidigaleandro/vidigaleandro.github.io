@@ -68,9 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This projetc was created for the final paper of my university.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>ROS</mark> and it has since grown into a fully built robot. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+          I started this project as a way if learning <mark>ROS</mark> and it has since grown into a fully built robot. I have learned many skills through this and been I'm very proud to have improve my knowledges in robotic area. In resume, the concept of the project is utilize. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
