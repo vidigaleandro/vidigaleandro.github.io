@@ -82,9 +82,9 @@ content:
         sub_title: ROS Developer
         caption: November 2022 - Present
         #quote: >
-        #  Working in the development of a system to make trucks autonomous utilizing ROS. Is being created the control velocity of the vehicle and its navigation system based on the implementation of sensors like cameras, LIDARs, Encoders, GPS, and others. The codes are developed using Python and C++ and are tested using a simulator created with GAZEBO.
+          Currently in the BRA(Barral Robotics and Automation) team with the leader Alexandre Barral.
         description: | # this will include new lines to allow paragraphs
-            Working in the development of a system to make trucks autonomous utilizing ROS. Is being created the control velocity of the vehicle and its navigation system based on the implementation of sensors like cameras, LIDARs, Encoders, GPS, and others. The codes are developed using Python and C++ and are tested using a simulator created with GAZEBO.
+            Working in the development of a system to make mobile robots autonomous utilizing ROS. Is being created the control velocity of the vehicle and its navigation system based on the implementation of sensors like cameras, LIDARs, Encoders, GPS, and others. The codes are developed using Python and C++ and are tested using a simulator created with GAZEBO.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
