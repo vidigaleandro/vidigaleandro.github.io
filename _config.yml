@@ -75,6 +75,7 @@ content:
           ![Resume](/images/GRUPO.png "Resume")
           
           ![Avoidance](/images/avoidance2.gif "Avoidance")
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
