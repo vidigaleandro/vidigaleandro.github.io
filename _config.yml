@@ -46,7 +46,7 @@ linkedin_username: leandro-vidigal
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/Avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name’s Leandro and I’m an Electrical Enginieer and i have experience with robotics software engineer. As well as working in research I also have experience in self employed working in a team delivering production code for robotic applications.
 
